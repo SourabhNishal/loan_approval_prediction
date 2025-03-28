@@ -20,7 +20,6 @@ This project aims to predict loan approval status using machine learning algorit
 📂 loan_approval_prediction_using_classification
 │── 📂 data                   # Dataset files
 │── 📂 notebook               # Jupyter Notebook with code and analysis
-│── 📄 reQuirement.txt        # Libraries required
 │── 📄 README.md              # Project documentation
 ```
 
